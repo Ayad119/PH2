@@ -2461,12 +2461,12 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
-jano5.login("");
-jano6.login("");
+jano.login("ODYyNDkwNjc0NTMxOTI2MDM4.YOZHbQ.GmHMo-dKR4aMGKS9vlw5T9EXamg");
+jano2.login("ODYyODIwNDkzOTkxMjE1MTA0.YOd6Nw.l-jhR0cp0PAztk2pCiWWdlXBVWI");
+jano3.login("ODYyODMwMDY0MzQ5MDg1NzA2.YOeDcg.iDswtLFK14P5oTGX_lUCBu7pRjk");
+jano4.login("ODYyODI4NzEyMDcxNTI4NDU5.YOeCMQ.lyu5BWwx2WES_XkTDaIoBO08v5w");
+jano5.login("ODYyODI1ODYxMjkxNTczMjc5.YOeBAA.CsTll19PMQwjOfOUavpMVdmS0mA");
+jano6.login("ODYyNDg4Mjk3ODA3ODA2NDc0.YOZFDw.6JEnX9ci0dzHH2EjcxEZsc7uev8");
 jano7.login("");
 jano8.login("");
 jano9.login("");
