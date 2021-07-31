@@ -107,47 +107,47 @@ const jano100 = new Discord.Client();
 
 ///////////////////
 jano.on("ready", () => {
-    var join = jano.channels.get(""); /// id voice
+    var join = jano.channels.get("800885279555977226"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano2.on("ready", () => {
-    var join = jano2.channels.get(""); /// id voice
+    var join = jano2.channels.get("800885279555977226"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano3.on("ready", () => {
-    var join = jano3.channels.get(""); /// id voice
+    var join = jano3.channels.get("800885279555977226"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano4.on("ready", () => {
-    var join = jano4.channels.get(""); /// id voice
+    var join = jano4.channels.get("800885279555977226"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano5.on("ready", () => {
-    var join = jano5.channels.get(""); /// id voice
+    var join = jano5.channels.get("800885279555977226"); /// id voice
     if (join) join.join();
   });///////////////////
 jano6.on("ready", () => {
-    var join = jano6.channels.get(""); /// id voice
+    var join = jano6.channels.get("800885279555977226"); /// id voice
     if (join) join.join();
   });///////////////////
 jano7.on("ready", () => {
-    var join = jano7.channels.get(""); /// id voice
+    var join = jano7.channels.get("800885279555977226"); /// id voice
     if (join) join.join();
   });///////////////////
 jano8.on("ready", () => {
-    var join = jano8.channels.get(""); /// id voice
+    var join = jano8.channels.get("800885279555977226"); /// id voice
     if (join) join.join();
   });///////////////////
 jano9.on("ready", () => {
-    var join = jano9.channels.get(""); /// id voice
+    var join = jano9.channels.get("800885279555977226"); /// id voice
     if (join) join.join();
   });///////////////////
 jano10.on("ready", () => {
-    var join = jano10.channels.get(""); /// id voice
+    var join = jano10.channels.get("800885279555977226"); /// id voice
     if (join) join.join();
   });///////////////////
 jano11.on("ready", () => {
